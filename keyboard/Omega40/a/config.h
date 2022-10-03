@@ -73,7 +73,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 // ws2812 RGB 配置
 #define RGB_DI_PIN 1
-#define RGBLED_NUM 70
+#define RGBLED_NUM 4
 #define DRIVER_LED_TOTAL RGBLED_NUM
 #define RGBLIGHT_ANIMATIONS
 #define RGB_PWR_PIN 0 // P-mos
